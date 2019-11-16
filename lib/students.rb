@@ -1,13 +1,14 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 
 def highest_student_gpa
-  query_string = Query 
+  'SELECT * FROM GPA '
 end
 
 def lowest_student_gpa
 end
 
 def average_student_gpa
+  
 end
 
 def total_tardies_for_all_students
